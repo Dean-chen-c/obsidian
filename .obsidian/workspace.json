@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0fde9369fe7822a9",
+        "id": "bd169414fb02ca26",
         "type": "tabs",
         "children": [
           {
-            "id": "31c067b18abede48",
+            "id": "b13f1fbfaeb3216f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/云计算/网络/VLAN.md",
+                "file": "main/生活/饮食/发物.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/云计算/网络/VLAN.md",
+                "file": "main/生活/饮食/发物.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/云计算/网络/VLAN.md",
+                "file": "main/生活/饮食/发物.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/云计算/网络/VLAN.md"
+                "file": "main/生活/饮食/发物.md"
               }
             }
           },
@@ -155,33 +155,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "31c067b18abede48",
+  "active": "b13f1fbfaeb3216f",
   "lastOpenFiles": [
-    "main/云计算/网络/VXLAN.md",
-    "main/云计算/网络/VLAN.md",
-    "main/images/1686880463000y76jzh.png",
+    "main/生活/文献和文档/中医饮食禁忌.pdf",
+    "main/生活/饮食/发物.md",
+    "main/工作/云计算/网络/VLAN.md",
+    "main/生活/文献和文档",
+    "main/生活/饮食",
+    "main/工作",
+    "main/生活",
+    "main/images/1686882077000ttqm9a.png",
+    "main/images/1686882050000i58hsa.png",
+    "main/images/1686882039000ipayv8.png",
+    "main/images/1686882026000xgo0du.png",
+    "main/images/16868820150005lnehd.png",
+    "main/images/1686882004000i41gp3.png",
+    "main/images/1686881990000ngo46b.png",
+    "main/images/1686881964000rphu02.png",
+    "main/images/1686881951000zbq2un.png",
+    "main/images/16868819400004g2315.png",
+    "main/工作/云计算/网络/VXLAN.md",
     "README.md",
-    "vlan-1.png",
-    "Pasted image 20230616094847.png",
-    "main/tool/Obsidian.md",
-    "main/云计算/存储/SAN.md",
-    "main/云计算/计算/Iaas.md",
+    "main/工作/tool/Obsidian.md",
+    "main/工作/云计算/存储/SAN.md",
+    "main/工作/云计算/计算/Iaas.md",
     "main/images",
-    "main/云计算/存储",
-    "main/云计算/计算",
-    "main/云计算/网络",
+    "main/工作/云计算/存储",
+    "main/工作/云计算/计算",
+    "main/工作/云计算/网络",
     "main/云计算/VXLAN.md",
     "main/云计算/VLAN.md",
-    "main/云计算",
-    "main/tool",
-    "main",
-    "image16868193230004n4xrx.png",
-    "obsidian/image168681909300087wcx4.jpg",
-    "image/16868193570005xcx57.png",
+    "main/工作/云计算",
     "工具软件-obsidian.md",
-    "obsidian",
-    "image",
-    "LICENSE",
     "().md",
     "VLAN.md",
     "VXLAN.md",

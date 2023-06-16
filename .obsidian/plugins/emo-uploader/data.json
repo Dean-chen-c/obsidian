@@ -1,0 +1,56 @@
+{
+  "choice": "Github",
+  "github_parms": {
+    "required": {
+      "owner": "Dean-chen-c",
+      "repo": "obsidian",
+      "branch": "main",
+      "token": "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",
+      "message": "upload image"
+    },
+    "path": "main/images/",
+    "random": true,
+    "cdn": "jsdelivr"
+  },
+  "imgur_parms": {
+    "required": {
+      "emoid": "4547d4aee97ce8f"
+    },
+    "clientid": "",
+    "anonymous": true
+  },
+  "cloudinary_parms": {
+    "required": {
+      "name": "",
+      "present": ""
+    },
+    "folder": ""
+  },
+  "smms_parms": {
+    "required": {
+      "token": ""
+    }
+  },
+  "imgurl_parms": {
+    "required": {
+      "uid": "",
+      "token": ""
+    }
+  },
+  "imgbb_parms": {
+    "required": {
+      "key": ""
+    }
+  },
+  "catbox_parms": {
+    "required": {
+      "userhash": ""
+    }
+  },
+  "chevereto_parms": {
+    "required": {
+      "domain": "",
+      "token": ""
+    }
+  }
+}

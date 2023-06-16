@@ -11,8 +11,12 @@
             "id": "31c067b18abede48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "main/云计算/网络/VLAN.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "main/云计算/网络/VLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "main/云计算/网络/VLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "main/云计算/网络/VLAN.md"
+              }
             }
           },
           {
@@ -149,8 +157,25 @@
   },
   "active": "31c067b18abede48",
   "lastOpenFiles": [
-    "image16868193230004n4xrx.png",
+    "main/images/1686880463000y76jzh.png",
     "README.md",
+    "vlan-1.png",
+    "main/云计算/网络/VLAN.md",
+    "Pasted image 20230616094847.png",
+    "main/tool/Obsidian.md",
+    "main/云计算/存储/SAN.md",
+    "main/云计算/计算/Iaas.md",
+    "main/images",
+    "main/云计算/网络/VXLAN.md",
+    "main/云计算/存储",
+    "main/云计算/计算",
+    "main/云计算/网络",
+    "main/云计算/VXLAN.md",
+    "main/云计算/VLAN.md",
+    "main/云计算",
+    "main/tool",
+    "main",
+    "image16868193230004n4xrx.png",
     "obsidian/image168681909300087wcx4.jpg",
     "image/16868193570005xcx57.png",
     "工具软件-obsidian.md",

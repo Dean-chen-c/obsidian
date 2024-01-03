@@ -1,7 +1,12 @@
 {
   "accentColor": "#aa8dce",
-  "theme": "system",
+  "theme": "moonstone",
   "cssTheme": "Minimal",
   "interfaceFontFamily": "Inter",
-  "monospaceFontFamily": "Fira Code"
+  "monospaceFontFamily": "Fira Code",
+  "enabledCssSnippets": [
+    "tableStyles",
+    "codeblock",
+    "common"
+  ]
 }

@@ -1,0 +1,25 @@
+body {
+  --code-background: #232222;
+  --code-keyword: #d371e3;
+  --code-property: #44b0f5;
+}
+.theme-dark,
+.theme-light,
+.theme-light.minimal-light-contrast .titlebar,
+.theme-light.minimal-light-contrast.is-mobile .workspace-drawer.mod-left,
+.theme-light.minimal-light-contrast.minimal-status-off .status-bar {
+  --code-normal: #ee6371;
+}
+
+.cm-def {
+  color: #44b0f5;
+}
+
+.cm-s-obsidian span.cm-inline-code {
+  color: var(--tx1);
+  background-color: #e0e691;
+}
+
+.cm-s-obsidian span.obsidian-search-match-highlight{
+  mix-blend-mode: normal;
+}

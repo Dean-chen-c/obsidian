@@ -1,7 +1,7 @@
 ![gh](https://cdn.jsdelivr.net/gh/Dean-chen-c/obsidian@main/main/images/1689144546000hbwle3.png)
 # Introduction
 
-Cronus主要提供对青云iaas平台的基本监控以及告警。对外暴露restful api供cmp、boss等使用。
+Cronus主要提供对X云iaas平台的基本监控以及告警。对外暴露restful api供cmp、boss等使用。
 
 # 组件详解
 ## agent

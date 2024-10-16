@@ -1,5 +1,8 @@
 ---
-cssclass: purpleRed, wideTable, tableCenter
+cssclasses:
+  - purpleRed
+  - wideTable
+  - tableCenter
 ---
 
 ## 环境信息

@@ -6,6 +6,8 @@ dpkg -X xxxx.deb /tmp/target_dir
 dpkg -s <package> 
 # 列举所有安装的deb包
 dpkg -l
+# 查看未安装的deb信息
+dpkg --info <package>.deb
 
 # 时间戳转换 
 # for mac 
@@ -46,7 +48,7 @@ select pg_size_pretty(pg_total_relation_size('audit_auditlog'));
 route -n get default 
 
 # mac查看指定地址的路由 
-route -n get boss2.qingcloud.com 
+route -n get xxx.xxxcloud.com 
 
 # mac临时添加路由 
 # IP 

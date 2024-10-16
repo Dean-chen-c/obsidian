@@ -4,7 +4,7 @@
 
 ### 云平台架构介绍
 
-Qingcloud云平台的管理逻辑架构图简化为如下图:
+xxxxcloud云平台的管理逻辑架构图简化为如下图:
 ![gh](https://cdn.jsdelivr.net/gh/Dean-chen-c/obsidian@main/main/images/1688606224000jpzxok.png)
 
 此图示对应的云平台环境为:  当前global 下 管理有 1 个region gd2 和一个 独立zone ap2a， 其中 region gd2 是由两个可用区gd2a 和gd2b 组成。 
@@ -23,7 +23,7 @@ global 域中的 global ks 服务主要包括:  账号，计费，以及云平�
 
 ## global ks 高可用方案
 
-在Qingcloud 云平台逻辑架构中， 云平台各管理服务均需向 可用区(机房) 内的zk 进行注册和发现。 在机房内各个服务均为多点高可用部署，这样能达到如下效果:
+在xxxxcloud 云平台逻辑架构中， 云平台各管理服务均需向 可用区(机房) 内的zk 进行注册和发现。 在机房内各个服务均为多点高可用部署，这样能达到如下效果:
 
 1. 系统内的无状态的服务就能做到多点高可用&负载均衡。
 2. 系统内的有状态的服务可利用zk来选取主active 服务节点， 在主灾难后， 原本slave 节点能升为新主， 继而能做到多点高可用。

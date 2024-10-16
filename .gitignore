@@ -1,0 +1,10 @@
+# misc
+.DS_Store
+
+.vscode
+
+main/工作/高可用/**
+
+main/工作/计算/**
+
+main/工作/云平台/**

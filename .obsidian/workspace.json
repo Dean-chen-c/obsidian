@@ -11,8 +11,14 @@
             "id": "31fe8d7a20a837e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "main/工作/BOSS平台/Check File MIME Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Check File MIME Type"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -44,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "云平台",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -58,14 +68,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 356.5
   },
   "right": {
     "id": "07a712789207987f",
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "main/工作/BOSS平台/weblate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "weblate 的反向链接列表"
             }
           },
           {
@@ -97,9 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "main/工作/BOSS平台/weblate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "weblate 的出链列表"
             }
           },
           {
@@ -110,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -118,7 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "main/工作/BOSS平台/Check File MIME Type.md"
+              },
+              "icon": "lucide-list",
+              "title": "Check File MIME Type 的大纲"
             }
           },
           {
@@ -126,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -146,8 +173,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "31fe8d7a20a837e8",
+  "active": "8da18116452c014c",
   "lastOpenFiles": [
+    "main/工作/前端/安全/CSRF.md",
+    "main/工作/BOSS平台/Check File MIME Type.md",
+    "main/工作/前端/其他/V8 里面的 JIT 是什么.md",
+    "main/工作/前端/其他",
+    "main/工作/前端/安全/XSS.md",
+    "main/工作/面试/Work/安全.md",
+    "main/工作/前端/安全",
+    "main/工作/前端/浏览器/Chrome 浏览器运行原理.md",
+    "main/工作/云计算/计算/云主机 VPS 虚拟机.md",
+    "main/工作/BOSS平台/平台国际化方案（i18n）.md",
+    "main/工作/面试/Work/Lodash使用.md",
+    "main/工作/面试/Work/模版.md",
+    "main/工作/面试/Work/easing.md",
+    "main/工作/面试/Work/一些自己的思考.md",
+    "main/工作/面试/Work/nodejs.md",
+    "main/工作/面试/Work/面试题目.md",
+    "main/工作/面试/Work/React.md",
+    "main/工作/面试/Work/React-redux.md",
+    "main/工作/面试/Work/Redux.md",
+    "main/工作/面试/Work/四海一.md",
+    "main/工作/面试/Work/滚动跟随.md",
+    "main/工作/面试/Work/云理论",
+    "main/工作/面试/Work/README.md",
+    "main/工作/面试/Work/原码反码补码.md",
+    "main/工作/面试/Work/shuffle算法.md",
+    "main/工作/面试/Work/HTTP状态码.md",
+    "main/工作/面试/Work/Express.md",
+    "main/工作/面试/Work/临时文件.md",
+    "main/工作/面试/Work/HTTP版本.md",
+    "main/工作/面试/Work",
     "gitignore",
     "main/images/1727596756000nmh2nr.png",
     "main/images/1726190080000xuiahc.png",
@@ -159,41 +216,11 @@
     "main/images/17174630730003isi8c.png",
     "main/images/1717463005000zn8emb.png",
     "main/images/1717462972000vpdyny.png",
-    "main/工作/前端/网络/代理 （Nginx）.md",
-    "main/工作/云计算/高可用/Global KS 高可用改造及运维手册.md",
-    "main/工作/云平台/企业云平台各版本产品目录清单.md",
-    "main/工作/云计算/高可用/xxxx高可用演练模拟测试记录.md",
-    "main/工作/云计算/高可用/Global KS 高可用部署架构分析.md",
-    "main/工作/云计算/高可用/Global KS 高可用 - region 两机房融合部署运维.md",
-    "main/工作/云计算/高可用/Global KS 高可用.md",
-    "main/西风/何以解忧？唯有暴富.md",
-    "main/工作/BOSS平台/访问路径 重定向到 默认路由.md",
-    "main/工作/云计算/boss 常用命令.md",
-    "main/工作/前端/CSS/移动端布局.md",
-    "main/工作/前端/CSS/Base/Other.md",
-    "main/工作/前端/CSS/BFC.md",
-    "main/工作/前端/CSS/单位.md",
-    "main/工作/前端/CSS/回流和重绘.md",
-    "main/工作/前端/CSS/媒体查询.md",
-    "main/工作/前端/CSS/实现3D场景.md",
-    "main/工作/前端/CSS/属性继承.md",
-    "main/工作/前端/CSS/常用属性.md",
-    "main/工作/前端/CSS/伪对象选择符.md",
-    "main/工作/前端/CSS/Base/Layout.md",
-    "main/工作/前端/CSS/Base/Appearance.md",
-    "main/工作/前端/CSS/Base/Text.md",
-    "main/工作/前端/CSS/Sprite（图片精灵）.md",
-    "main/工作/前端/CSS/CSS选择器.md",
     "main/工作/前端/CSS/Base",
     "main/工作/云平台/云平台前端/技术方案",
     "main/工作/云平台/云平台前端",
     "main/工作/面试/网络",
     "main/工作/前端/JS/事件",
-    "main/金融/刘煜辉线下论坛分享纪要-2023-07-03.pdf",
-    "main/西风/文章",
-    "main/西风",
-    "main/工作/前端/Node/KOA",
-    "main/工作/前端/Node",
     "未命名.canvas",
     "Untitled.canvas"
   ]
